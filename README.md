@@ -8,4 +8,4 @@ Other images or codes are not allowed such as svg.
 
 Special Thanks to JiminP.
 
-* Some of them doesn't work under IE 8. 
+* Some of them doesn't work under IE 8, but "don't care of them".
