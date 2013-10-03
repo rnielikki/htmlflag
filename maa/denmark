@@ -1,0 +1,4 @@
+<div style="background-color:#D00C33;width:800px;height:600px;position:relative;margin:0;padding:0;">
+<div style="background-color:#FFFFFF;position:absolute;left:260px;top:0px;width:80px;height:600px;"></div>
+<div style="background-color:#FFFFFF;position:absolute;float:left;top:260px;width:800px;height:80px;"></div>
+</div>

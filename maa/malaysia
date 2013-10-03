@@ -1,0 +1,26 @@
+<div class="malayFlag"><div class="stripe" style="top:0;"></div>
+<div class="stripe" style="top:57.14285714px;"></div><div class="stripe" style="top:114.28571429px;"></div>
+<div class="stripe" style="top:171.42857143px;"></div><div class="stripe" style="top:228.57142857px;"></div>
+<div class="stripe" style="top:285.71428571px;"></div><div class="stripe" style="top:342.85714286px;"></div>
+<div style="position:absolute;left:0;top:0;background-color:#0035AD;width:400px;height:228.57142857px;">
+<div style="background-color:#FFD100;position:absolute;left:78.57142857px;top:28.57142857px;
+width:171.42857143px;height:171.42857143px;border-radius:85.71428571px;"></div>
+<div style="background-color:#0035AD;position:absolute;left:107.14285714px;top:38.0952381px;
+width:152.380952381px;height:152.380952381px;border-radius:76.19047619px;"></div>
+<div style="position:absolute;left:250px;top:114.28571429px;">
+<div class="lightline"><div class="northlight"></div><div class="southlight"></div></div>
+<div class="lightline" style="-webkit-transform:rotate(25.7142857deg);-moz-transform:rotate(25.7142857deg);
+-ms-transform:rotate(25.7142857deg);-o-transform:rotate(25.7142857deg);"><div class="northlight"></div>
+<div class="southlight"></div></div><div class="lightline" style="-webkit-transform:rotate(51.4285714deg);
+-moz-transform:rotate(51.4285714deg);-ms-transform:rotate(51.4285714deg);-o-transform:rotate(51.4285714deg);">
+<div class="northlight"></div><div class="southlight"></div></div><div class="lightline"
+style="-webkit-transform:rotate(77.14285714deg);-moz-transform:rotate(77.14285714deg);
+-ms-transform:rotate(77.14285714deg);-o-transform:rotate(77.14285714deg);"><div class="northlight"></div>
+<div class="southlight"></div></div><div class="lightline" style="-webkit-transform:rotate(102.857142857deg);
+-moz-transform:rotate(102.857142857deg);-ms-transform:rotate(102.857142857deg);
+-o-transform:rotate(102.857142857deg);"><div class="northlight"></div><div class="southlight"></div></div>
+<div class="lightline" style="-webkit-transform:rotate(128.57142857deg);-moz-transform:rotate(128.57142857deg);
+-ms-transform:rotate(128.57142857deg);-o-transform:rotate(128.57142857deg);"><div class="northlight"></div>
+<div class="southlight"></div></div><div class="lightline" style="-webkit-transform:rotate(154.2857142857deg);
+-moz-transform:rotate(154.2857142857deg);-ms-transform:rotate(154.2857142857deg);-o-transform:rotate(154.2857142857deg);">
+<div class="northlight"></div><div class="southlight"></div></div></div></div></div>

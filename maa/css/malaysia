@@ -1,0 +1,8 @@
+.malayFlag{width:800px;height:400px;position:relative;background-color:white;}
+.malayFlag .stripe{width:800px;height:28.57142857px;position:absolute;left:0;background-color:#DC241F;}
+.malayFlag .lightline{position:absolute;left:0;top:0;}
+.malayFlag .lightline .northlight{position:absolute;left:-11.672678px;top:-71.42857143px;
+width:0;height:0;border-color:rgba(255,209,0,0) rgba(255,209,0,0) #FFD100 rgba(255,209,0,0);border-style:solid;
+border-width:0 11.672678px 90px 11.672678px;}.malayFlag .lightline .southlight{position:absolute;
+left:-11.672678px;top:-8.57142857px;width:0;height:0;border-style:solid;
+border-color:#FFD100 rgba(255,209,0,0) rgba(255,209,0,0) rgba(255,209,0,0);border-width:80px 11.672678px 0 11.672678px;}

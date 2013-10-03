@@ -1,0 +1,13 @@
+<div style="position:relative;width:800px;height:400px;background-color:black;">
+<div style="position:absolute;width:100%;height:100px;background-color:#E70013;"></div>
+<div style="position:absolute;width:100%;bottom:0;height:100px;background-color:#239E46;"></div>
+<div style="position:absolute;left:350px;top:150px;width:100px;height:100px;border-radius:50px;
+background-color:white;"></div><div style="position:absolute;left:366.66667px;top:156.556638px;
+width:86.886724px;height:86.886724px;border-radius:43.443362px;background-color:black;"></div>
+<div style="position:absolute;left:450px;top:164.64466px;border-color:transparent transparent transparent white;
+border-style:solid;border-width:35.355339px 0 35.355339px 25.687157px;width:0;height:0;"></div>
+<div style="position:absolute;left:424.31284px;top:178.1492px;
+border-color:rgba(255,255,255,0) white rgba(255,255,255,0) rgba(255,255,255,0);
+border-style:solid;border-width:21.8508px 67.24985px 21.8508px 0;width:0;height:0;"></div>
+<div style="position:absolute;left:475.68715742px;top:156.2984px;border-color:transparent black transparent transparent;
+border-style:solid;border-width:43.9016px 31.75107px 43.9016px 0;width:0;height:0;"></div></div>

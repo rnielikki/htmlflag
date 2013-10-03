@@ -1,0 +1,6 @@
+<div style="background-color:#003897;width:800px;height:576px;position:relative;margin:0;padding:0;">
+<div style="background-color:#FFFFFF;position:absolute;left:223px;top:0px;width:128px;height:576px;"></div>
+<div style="background-color:#FFFFFF;position:absolute;float:left;top:223px;width:800px;height:128px;"></div>
+<div style="background-color:#D72828;position:absolute;left:255px;top:0px;width:64px;height:576px;z-index:2;"></div>
+<div style="background-color:#D72828;position:absolute;float:left;top:255px;width:800px;height:64px;z-index:2;"></div>
+</div>

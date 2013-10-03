@@ -1,0 +1,15 @@
+<div style="position:relative;width:800px;height:400px;overflow:hidden;background-color:#00247D;">
+<div style="position:absolute;left:400px;top:200px;-webkit-transform:rotate(-26.565deg);
+-moz-transform:rotate(-26.565deg);-ms-transform:rotate(-26.565deg);-o-transform:rotate(-26.565deg);">
+<div style="position:absolute;width:1000px;height:80px;left:-500px;top:-40px;background-color:white;"></div>
+<div style="position:absolute;width:500px;height:26.66667px;left:-500px;background-color:#CF142B;"></div>
+<div style="position:absolute;width:500px;height:26.66667px;top:-26.66667px;background-color:#CF142B;"></div>
+</div><div style="position:absolute;left:400px;top:200px;-webkit-transform:rotate(26.565deg);
+-moz-transform:rotate(26.565deg);-ms-transform:rotate(26.565deg);-o-transform:rotate(26.565deg);">
+<div style="position:absolute;width:1000px;height:80px;left:-500px;top:-40px;background-color:white;"></div>
+<div style="position:absolute;width:500px;height:26.66667px;left:-500px;background-color:#CF142B;"></div>
+<div style="position:absolute;width:500px;height:26.66667px;top:-26.66667px;background-color:#CF142B;"></div>
+</div><div style="position:absolute;width:800px;height:133.33333px;top:133.33333px;left:0;background-color:white;"></div>
+<div style="position:absolute;width:133.33333px;height:400px;top:0;left:333.33333px;background-color:white;"></div>
+<div style="position:absolute;width:80px;height:400px;top:0;left:360px;background-color:#CF142B;"></div>
+<div style="position:absolute;width:800px;height:80px;top:160px;left:0;background-color:#CF142B;"></div></div>

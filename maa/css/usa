@@ -1,0 +1,12 @@
+.usaFlag{position:relative;width:800px;height:421.052631579px;background-color:#CC0C2F;}
+.usaFlag .stripe{position:absolute;left:0;width:800px;height:32.388664px;background-color:white;}
+.usaFlag .sw{position:absolute;}.usaFlag .sw .sa{position:absolute;top:-4.003459px;left:-12.32138px;
+border-color:white transparent transparent transparent;border-style:solid;
+border-width:8.95200655px 12.32138px 0 12.32138px;width:0;height:0;}.usaFlag .sw .sb{position:absolute;top:-12.955465587px;
+left:-7.61503161px;border-color:rgba(255,255,255,0) rgba(255,255,255,0) white rgba(255,255,255,0);
+border-style:solid;border-width:0 7.61503161px 23.436657417px 7.61503161px;width:0;height:0;}.usaFlag .sw .sc{position:absolute;
+top:4.9485475px;left:-9.13803793px;border-color:rgba(0,44,119,0) rgba(0,44,119,0) #002C77 rgba(0,44,119,0);border-style:solid;
+border-width:0 9.13803793px 6.639173179px 9.13803793px;width:0;height:0;}.usaFlag .starline{position:absolute;left:0;}
+.usaFlag .sw1{left:26.66667px;}.usaFlag .sw2{left:53.33333px;}.usaFlag .sw3{left:80px;}.usaFlag .sw4{left:106.66667px;}
+.usaFlag .sw5{left:133.33333px;}.usaFlag .sw6{left:160px;}.usaFlag .sw7{left:186.66667px;}.usaFlag .sw8{left:213.33333px;}
+.usaFlag .sw9{left:240px;}.usaFlag .sw10{left:266.66667px;}.usaFlag .sw11{left:293.33333px;}

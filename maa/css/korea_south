@@ -1,0 +1,25 @@
+.koreaFlag{width:800px;height:533.33333px;background-color:white;position:relative;}
+.koreaFlag>.center-aligned{position:absolute;left:400px;top:266.66666px;}
+.koreaFlag .taeguk{position:absolute;left:0;top:0;-webkit-transform:rotate(-11.31deg);
+-moz-transform:rotate(-11.31deg);-ms-transform:rotate(-11.31deg);-o-transform:rotate(-11.31deg);}
+.koreaFlag .taeguk>.base{position:absolute;left:-133.33333px;top:-133.33333px;border-radius:133.33333px;
+border-style:solid;border-width:133.33333px;border-color:#C60C30 rgba(0,52,120,0) #003478 rgba(198,12,48,0);}
+.koreaFlag .taeguk>.circle-red{position:absolute;left:-113.80712px;top:-113.80712px;
+border-radius:66.66667px;background-color:#C60C30;width:133.3334px;height:133.3334px;}
+.koreaFlag .taeguk>.circle-blue{position:absolute;left:-20.52621px;top:-20.52621px;
+border-radius:66.66667px;background-color:#003478;width:133.3334px;height:133.3334px;}
+.koreaFlag .geon, .koreaFlag .gon{-webkit-transform:rotate(-56.30993deg);
+-moz-transform:rotate(-56.30993deg);-ms-transform:rotate(-56.30993deg);-o-transform:rotate(-56.30993deg);}
+.koreaFlag .gam, .koreaFlag .li{-webkit-transform:rotate(56.30993deg);
+-moz-transform:rotate(56.30993deg);-ms-transform:rotate(56.30993deg);-o-transform:rotate(56.30993deg);}
+.koreaFlag .gwoe>div{position:absolute;background-color:black;height:22.22222px;}
+.koreaFlag .gwoe>.full{width:133.33333px;left:-66.66667px;}
+.koreaFlag .gwoe>.half-left{width:61.11111px;left:-66.66667px;}
+.koreaFlag .gwoe>.half-right{width:61.11111px;left:5.55556px;}
+.koreaFlag .geon{position:absolute;left:-203.39px;top:-135.593381px;}
+.koreaFlag .gon{position:absolute;left:203.39px;top:135.59338px;}
+.koreaFlag .gam{position:absolute;left:203.39px;top:-135.59338px;}
+.koreaFlag .li{position:absolute;left:-203.39px;top:135.59338px;}
+.koreaFlag .rota{-webkit-transform:rotate(30deg);-moz-transform:rotate(30deg);-ms-transform:rotate(30deg);-o-transform:rotate(30deg);}
+.koreaFlag .rotb{-webkit-transform:rotate(60deg);-moz-transform:rotate(60deg);-ms-transform:rotate(60deg);-o-transform:rotate(60deg);}
+.koreaFlag .rotc{-webkit-transform:rotate(90deg);-moz-transform:rotate(90deg);-ms-transform:rotate(90deg);-o-transform:rotate(90deg);}
