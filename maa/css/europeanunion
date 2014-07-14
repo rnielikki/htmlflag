@@ -1,0 +1,21 @@
+.star1{
+position:absolute;
+}
+.star2{
+position:absolute;left:-27.739148391938px;
+top:-9.0129956875px;border-color:#ffcc00 transparent transparent transparent;border-style:solid;
+border-width:20.153670998125px 27.739148391938px 0 27.739148391938px;width:0;height:0;
+}
+.star3{
+position:absolute;
+left:-17.14373653125px;top:-29.166668125px;border-color:transparent transparent #ffcc00 transparent;
+border-style:solid;border-width:0 17.14373653125px 52.7629956875px 17.14373653125px;width:0;height:0;
+}
+.star4{
+position:absolute;
+left:-34.2874730625px;top:11.140675328125px;border-color:transparent transparent #003399 transparent;
+border-style:solid;border-width:0 34.2874730625px 24.91130735625px 34.2874730625px;width:0;height:0;
+}
+.conbox{
+	background-color:#ccc;
+}
