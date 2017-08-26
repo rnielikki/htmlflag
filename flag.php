@@ -24,7 +24,7 @@ a:link{color:#569;text-decoration:none;}
 a:hover{color:#569;background-color:#eee;text-decoration:underline;font-weight:bold;}
 a:visited{color:#569;text-decoration:none;}
 a:active{color:#cce;background-color:#eee;text-decoration:underline;font-weight:bold;}
-<?
+<?php
 if(file_exists('maa/css/'.$maa)){
 $css=file_get_contents('maa/css/'.$maa);
 $css=preg_replace_callback('/(\d+|[0-9]+\.[0-9]+)px/',create_function('$matches','global $px; $matches[0]=substr($matches[0],0,-2); return floatval($matches[0]/$px)."px";'),$css);
@@ -44,7 +44,7 @@ echo $css;
 <?=$lahdekoodi?>
 <br>Source<br>
 <textarea style="width:80%;height:300px;">
-<?
+<?php
 echo $css?'<style type="text/css">'."\n".$css."</style>"."\n".$lahdekoodi:$lahdekoodi;
 ?>
 </textarea>
